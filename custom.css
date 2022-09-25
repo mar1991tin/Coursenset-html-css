@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-banner .carousel-item{
+    height: 92%;
+}
+.section-service{
+    padding: 50px 0px;
+}
+
+.section-service .box{
+    background color:border: ;
+
+    text-align: center;
+    padding: 0px 30px;
+    height: 350px;
+    display; flex;
+    flex-direction; column;
+    justify-content: space-between;
+    align-item: center; 
+} */
+
+.section-service .box button{
+    width: 50%;
+
+}
+.section-service .box{
+    text-align: center;
+    padding: 0px 30px;
+}
+
+.section-service .box{
+    heightn: 190px;
+    overflow: hidden;
+}
